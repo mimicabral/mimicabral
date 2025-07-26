@@ -12,3 +12,5 @@
 
 📍 Localização: Submundo Azul  
 📮 Contato: miriadasilvasouza311@gmail.com
+![GitHub followers](https://img.shields.io/github/followers/mimicabral?label=Seguidores&style=social)
+✨ [BoneBouquet](https://github.com/mimicabral/BoneBouquet)
